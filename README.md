@@ -1,6 +1,6 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Hello, I'm Pedro!
 
-Graduando Sistemas de Informação 👨‍💻
+Graduando em Sistemas de Informação 👨‍💻
 
 Junior Frontend Developer 💻
 
