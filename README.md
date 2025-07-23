@@ -2,7 +2,7 @@
 
 Graduando em Sistemas de Informação 👨‍💻
 
-Junior Frontend Developer 💻
+Frontend Developer 💻
 
 Florianópolis - SC - Brasil 🌅
 
