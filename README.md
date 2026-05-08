@@ -19,7 +19,7 @@ const pedro = {
   role:     "Frontend Developer",
   location: "Florianópolis, SC — Brasil 🌅",
   education: "Sistemas de Informação",
-  focus:    ["UI/UX", "React Ecosystem", "TypeScript"],
+  focus: ["React", "TypeScript", "Next.js"],
   currently: "Building clean, performant web interfaces",
 };
 ```
@@ -46,8 +46,7 @@ const pedro = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=PedroWrublak&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroWrublak&layout=compact&theme=github_dark&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=PedroWrublak&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
